@@ -1,4 +1,8 @@
-a=input("enter the text :")
-b=input("enter the word :")
-y=a.split()
-print(y.count(b))
+for i in range (1,5):
+    for j in range(1,i+1):
+        print(j,end="") 
+    print("\n")
+for i in range (5,0,-1):
+    for j in range(1,i+1):
+        print(j,end="") 
+    print("\n")
