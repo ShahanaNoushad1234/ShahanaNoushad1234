@@ -1,0 +1,33 @@
+img{width: 100%;}
+.s1{width: 350px;display: inline-flex;text-align: justify;}
+.t1{position: absolute;margin-top: 250px;width: 350px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;}
+.t2{position: absolute;margin-top: 230px;width: 350px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;}
+.t3{position: absolute;margin-top: 230px;width: 350px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;}
+.t4{position: absolute;margin-top: 230px;width: 350px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;}
+.k1{width: 600px;height: 300px;border: 2px solid black;background-color: rgb(198, 193, 193);margin-top: 60px;margin-left: 5px;}
+.k2{font-family: 'Open Sans', sans-serif;display: inline-flex;}
+.k3{font-weight: bold;}
+.v1{display: flex;justify-content:center;margin-top: 200px;}
+.s4{height: 500px;display: inline-flex;margin-top: 30px;}
+.s2{width: 200px;height: 400px;display: inline-flex;margin-left: 30px;margin-top: 30px;}
+.s3{width: 200px;height: 400px;display: inline-flex;margin-left: 30px;}
+.B1{position:absolute;width: 300px;height: 200px;border: 2px solid black;background-color: rgb(198, 193, 193);}
+.A1{position:absolute;width: 200px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;margin-top: 400px;}
+.A2{position:absolute;width: 200px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;margin-top: 400px;}
+.A3{position:absolute;width: 200px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;margin-top: 400px;}
+.A4{position:absolute;width: 200px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;margin-top: 400px;}
+.A5{position:absolute;width: 200px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;margin-top: 400px;}
+.A6{position:absolute;width: 200px;height: 50px;border: 2px solid rgb(222, 217, 217);background-color: rgb(198, 193, 193);text-align: center;margin-top: 400px;}
+.C1{display: inline-flex;}
+.C2{display: inline-flex;margin-top: 30px;margin-left: 20px;}
+input {
+    width: 300px;
+    padding: 15px 20px;
+    margin: 8px 0;
+    background-color: rgb(60, 155, 210);
+    margin-top: 80px;
+    border: 2px;
+  }
+  
+  
+
